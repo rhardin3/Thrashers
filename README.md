@@ -1,5 +1,5 @@
 Team Thrasher's Study Guide for Git
-
+**Authors**: Robbie and Orkhan
 
 Table of Contents
 1.Getting Started
