@@ -12,7 +12,7 @@
 1.  
 Type type type type  
 
-2. Basic Commands  
+2. Commiting  
 Commiting can be difficult but we will do our best to help you through this scary and sometimes painful process.
 While working in the *developer* branch, go into your notepad document and type out a header, a string, or any 
 changes you wish to make. When finished, save your notepad document and return to Git. Still in the developer
