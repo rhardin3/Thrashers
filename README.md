@@ -1,7 +1,7 @@
 #Team Thrasher's Study Guide for Git
 **Authors**: *Robbie and Orkhan*
 
-Table of Contents    
+##Table of Contents    
 1.Getting Started  
 2.Basic Commands  
 3.Stuff  
