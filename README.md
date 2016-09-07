@@ -3,7 +3,7 @@
 
 ##Table of Contents    
 1.Getting Started  
-2.Basic Commands  
+2.Commiting 
 3.Stuff  
 4.More Stuff  
 5.Learning  
