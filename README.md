@@ -8,11 +8,7 @@
 4.More Stuff  
 
 5.Learning  
-6. 
-7. 
 
-1. Starting
-Start 
 
  
 
