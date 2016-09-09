@@ -2,15 +2,19 @@
 **Authors**: *Robbie and Orkhan*
 
 ##Table of Contents    
-1.Getting Started  
+1.Cloning  
 2.Commiting   
 3.Stuff  
 4.More Stuff  
+
 5.Learning  
+6. 
+7. 
 
+1. Starting
+Start 
 
-1.  
-Type type type type  
+ 
 
 2. Commiting  
 Commiting can be difficult but we will do our best to help you through this scary and sometimes painful process.
